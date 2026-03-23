@@ -61,10 +61,9 @@ Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
     project/
      ├─ README.md
-     └─ images/
-         └─ diagram.png
+     └─ diagram.png
 
-![Architecture Diagram](images/diagram.png)
+![Architecture Diagram](diagram.png)
 
 ------------------------------------------------------------------------
 
