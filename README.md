@@ -81,7 +81,7 @@ def hello():
 
 ### 외부 이미지
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark2.png)
 
 ### 내부 이미지 구조
 
