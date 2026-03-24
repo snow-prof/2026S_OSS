@@ -93,6 +93,8 @@ def hello():
 
 ![Architecture Diagram](diagram.png)
 
+![text](https://github.com/snow-prof/2026S_OSS/blob/main/diagram.png)
+
 ------------------------------------------------------------------------
 
 ## 6. 표 (Table)
