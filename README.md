@@ -19,6 +19,7 @@ _이탤릭체2_
 ## 1. 프로젝트 소개 (Introduction)
 
 이 프로젝트는 다음 내용을 학습하기 위해 만들어졌습니다.
+test test test.
 
 -   Markdown 기본 문법 이해
 -   GitHub README 작성 방법
