@@ -1,4 +1,4 @@
-[다이어그램 페이지: diagram.md](https://github.com/snow-prof/2026S_OSS/blob/main/diagram.md)
+[다이어그램 페이지](https://github.com/snow-prof/2026S_OSS/blob/main/diagram.md)
 
 # OSS Markdown Demo Project
 
