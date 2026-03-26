@@ -1,13 +1,4 @@
-![ai logo](https://www.vecteezy.com/free-vector/artificial-intelligence-logo)
-
-1. 첫번째
-2. 두번째
-3. 세번째
-
-**굵은 글씨** 
-*이탤릭체1*
-_이탤릭체2_
-~~취소선입니다.~~
+[diagram.md](https://github.com/snow-prof/2026S_OSS/blob/main/diagram.md)
 
 # OSS Markdown Demo Project
 
